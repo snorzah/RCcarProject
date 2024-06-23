@@ -1,2 +1,3 @@
 # RCcarProject
 A toy car that was previously just a cheap plastic car turned into a remote controlled car.
+I originally came to this project to make a treasure out of trash and to learn more about the general arduino devices. At first, I was just going to add a motor to move the wheels and an IR reciever to recieve instructions. However, as I continued to build the project, I added more things, such as an RGB LED at the top to indicate the mode (Drive, Reverse), tail lights to indicate whether you're breaking or not, headlights, an ultrasonic sensor at the back to prevent backing into a wall, an LCD to display speed and mode (Breaked, Drive, Reverse) and probably the most notable, the servo that lifts the back of the dump truck.
